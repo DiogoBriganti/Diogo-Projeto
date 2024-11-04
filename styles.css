@@ -28,34 +28,8 @@ div {
 
     h1 {
         font-size: 40px;
-    } padding-top: 100px;
-    padding-left: 480px;
-    font-size: 40px;
-}
+    }
 
-p{
-    font-size: 20px;
-}
-
-img {
-    height: 700px;
-}
-
-.categoria-videos{
-    display: flex;
-    overflow-x: auto;
-    gap: 5px;
-}
-.categoria{
-    padding-left: 10px;
-    padding-right: 10px;
-}
-
-.categoria-videos img:hover {
-   opacity: 0.3;
-   border: 3px solid white;
-
-}
 
     h2{
         padding-top: 100px;
@@ -81,6 +55,7 @@ img {
         padding-right: 10px;
     }
 
+    }
     .categoria-videos img:hover {
        opacity: 0.3;
        border: 3px solid white;
