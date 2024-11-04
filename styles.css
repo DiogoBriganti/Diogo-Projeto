@@ -1,5 +1,5 @@
 body {
-    color: blue;
+    color: white;
     background: red;
     font-family: "Chokokutai", system-ui;
 }
@@ -8,7 +8,7 @@ header {
     padding-left: 650px;
     padding-bottom: 100px;
     font-size: 70px;
-    color: black;
+    color: blue;
     font-family: "Rubik Wet Paint", sans-serif;
 
 }
