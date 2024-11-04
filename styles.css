@@ -1,6 +1,6 @@
 body {
     color: white;
-    background: black;
+    background: rgb(85, 8, 8);
     font-family: "Rubik Wet Paint", system-ui;
 }
 
@@ -63,7 +63,7 @@ div {
     }
 
     .categoria h2 {
-        color:blueviolet;
+        color:rgb(66, 10, 10);
     } 
 
      section{
