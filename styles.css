@@ -1,6 +1,6 @@
 body {
-    color: rgb(85, 8, 8);
-    background: rgb(85, 8, 8);
+    color: red;
+    background: red;
     font-family: "Roboto", system-ui;
 }
 
@@ -58,12 +58,12 @@ div {
     }
     .categoria-videos img:hover {
        opacity: 0.3;
-       border: 3px solid rgb(85, 8, 8);
+       border: 3px solid red;
 
     }
 
     .categoria h2 {
-        color:rgb(85, 8, 8);
+        color:red;
     } 
 
      section{
