@@ -5,8 +5,7 @@ body {
 }
 
 header {
-    padding-left: 680px;
-    padding-bottom: 100px;
+   justify-content: center;
     font-size: 70px;
     color:black;
     font-family: "Rotobo", sans-serif;
